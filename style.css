@@ -46,7 +46,7 @@ main {
 }
 .main-container-heading-background {
   width: 100%;
-  background: hsl(217, 28%, 15%) url(images/bg-curvy-desktop.svg) bottom center
+  background: hsl(217, 28%, 15%) url("images/bg-curvy-desktop.svg") bottom center
     no-repeat;
   background-size: contain;
 }
