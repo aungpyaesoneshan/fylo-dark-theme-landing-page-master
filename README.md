@@ -26,8 +26,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+![FireShot Capture 001 - Frontend Mentor - Fylo landing page with dark theme and features grid_ - happycloud250 github io](https://user-images.githubusercontent.com/72793369/161099335-ff25f8cf-5e06-4823-a54a-336cb46951a0.png)
 
-![Screenshot (49)](https://user-images.githubusercontent.com/72793369/161094453-8604af29-767e-449e-95f3-bc6c4641a78a.png)
+
+![FireShot Capture 003 - Frontend Mentor - Fylo landing page with dark theme and features grid_ - 127 0 0 1](https://user-images.githubusercontent.com/72793369/161099356-31fc70e7-163b-45e0-9211-8a6c50f07bf5.png)
 
 
 
