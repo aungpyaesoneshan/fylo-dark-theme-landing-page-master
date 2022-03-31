@@ -444,6 +444,12 @@ footer {
   }
 }
 @media screen and (max-width: 600px) {
+   .main-container-heading,
+  .main-container-cards
+ {
+  margin-bottom: 0;
+}
+
   .nav-logo {
     margin-left: 10px;
     width: 100px;
