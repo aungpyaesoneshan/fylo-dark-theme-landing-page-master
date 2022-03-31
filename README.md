@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./video/video.mp4]
+![./video.mp4]
 
 ### Links
 
