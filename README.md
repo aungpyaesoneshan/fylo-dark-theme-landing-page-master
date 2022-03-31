@@ -27,9 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot (49)](https://user-images.githubusercontent.com/72793369/161094453-8604af29-767e-449e-95f3-bc6c4641a78a.png)
 
 
-https://user-images.githubusercontent.com/72793369/161092377-d834a0bc-27c1-41ad-8b81-3591d4f3fef4.mp4
+
 
 
 
