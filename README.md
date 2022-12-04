@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Happycloud250/fylo-dark-theme-landing-page-master]
-- Live Site URL: [https://happycloud250.github.io/fylo-dark-theme-landing-page-master/]
+- Solution URL: [https://github.com/aungpyaesoneshan/fylo-dark-theme-landing-page-master]
+- Live Site URL: [https://aungpyaesoneshan.github.io/fylo-dark-theme-landing-page-master/]
 
 ### Built with
 
